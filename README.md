@@ -42,17 +42,17 @@
 
 ## 기타 활동
 
-|    Mission     |                                              Link                                              |
-|:--------------:|:----------------------------------------------------------------------------------------------:|
-|      테코톡       | [`[10분 테코톡]` 지토의 Auto Configuration](hhttps://www.youtube.com/watch?v=TSCHTPZ3PSQ&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC) |
-|   레벨 3 레벨 로그   | [레벨 로그 - 레벨 3](https://ginger-monkey-efe.notion.site/3-7e213b86bbb24469a96238a298923cc5?pvs=4) |
-|   레벨 2 레벨 로그   |                 [레벨 로그 - 레벨 2](https://velog.io/@appti/%EB%A0%88%EB%B2%A8-2-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A7%88%EB%8B%B5)                 |
-|   레벨 1 레벨 로그   |                 [레벨 로그 - 레벨 1](https://prolog.techcourse.co.kr/studylogs/3103)                 |
-| 장바구니(협업) 학습 로그 |           [Jenkins + Git Submodule](https://prolog.techcourse.co.kr/studylogs/3577)            |
-| 지하철 노선도 학습 로그  |                [ResultActions](https://prolog.techcourse.co.kr/studylogs/3491)                 |
-|   장바구니 학습 로그   |  [ResponseEntityExceptionHandler를 사용해야 하는 이유](https://prolog.techcourse.co.kr/studylogs/3371)  |
-|    체스 학습 로그    |                     [리플렉션](https://prolog.techcourse.co.kr/studylogs/3076)                     |
-|   블랙잭 학습 로그    |             [블랙잭 미션을 하며 발견한 코드 악취](https://prolog.techcourse.co.kr/studylogs/2805)             |
-|  사다리 게임 학습 로그  |          [Custom Exception에 대한 나의 경험](https://prolog.techcourse.co.kr/studylogs/2675)          |
-|  자동차 경주 학습 로그  |              [@RequestBody 학습 내용](https://prolog.techcourse.co.kr/studylogs/3179)              |
-|  자동차 경주 학습 로그  |              [@RequestBody 학습 내용](https://prolog.techcourse.co.kr/studylogs/3179)              |
+|    Mission     |                                                                   Link                                                                    |
+|:--------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
+|      테코톡       |[![Video Label](http://img.youtube.com/vi/TSCHTPZ3PSQ/0.jpg)](https://youtu.be/TSCHTPZ3PSQ) |
+|   레벨 3 레벨 로그   |                      [레벨 로그 - 레벨 3](https://ginger-monkey-efe.notion.site/3-7e213b86bbb24469a96238a298923cc5?pvs=4)                       |
+|   레벨 2 레벨 로그   |                [레벨 로그 - 레벨 2](https://velog.io/@appti/%EB%A0%88%EB%B2%A8-2-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A7%88%EB%8B%B5)                |
+|   레벨 1 레벨 로그   |                                      [레벨 로그 - 레벨 1](https://prolog.techcourse.co.kr/studylogs/3103)                                       |
+| 장바구니(협업) 학습 로그 |                                 [Jenkins + Git Submodule](https://prolog.techcourse.co.kr/studylogs/3577)                                 |
+| 지하철 노선도 학습 로그  |                                      [ResultActions](https://prolog.techcourse.co.kr/studylogs/3491)                                      |
+|   장바구니 학습 로그   |                       [ResponseEntityExceptionHandler를 사용해야 하는 이유](https://prolog.techcourse.co.kr/studylogs/3371)                        |
+|    체스 학습 로그    |                                          [리플렉션](https://prolog.techcourse.co.kr/studylogs/3076)                                           |
+|   블랙잭 학습 로그    |                                  [블랙잭 미션을 하며 발견한 코드 악취](https://prolog.techcourse.co.kr/studylogs/2805)                                   |
+|  사다리 게임 학습 로그  |                               [Custom Exception에 대한 나의 경험](https://prolog.techcourse.co.kr/studylogs/2675)                                |
+|  자동차 경주 학습 로그  |                                   [@RequestBody 학습 내용](https://prolog.techcourse.co.kr/studylogs/3179)                                    |
+|  자동차 경주 학습 로그  |                                   [@RequestBody 학습 내용](https://prolog.techcourse.co.kr/studylogs/3179)                                    |
