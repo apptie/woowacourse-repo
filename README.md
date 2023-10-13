@@ -18,8 +18,6 @@
 |   장바구니    | `2023-04-25` ~ `2023-05-08` | [Repository](https://github.com/woowacourse/jwp-shopping-cart/tree/apptie) | [1단계 PR](https://github.com/woowacourse/jwp-shopping-cart/pull/213) |  [2단계 PR](https://github.com/woowacourse/jwp-shopping-cart/pull/268)   |
 | 웹 자동차 경주  | `2023-04-11` ~ `2023-04-24` | [Repository](https://github.com/woowacourse/jwp-racingcar/tree/apptie) |   [1단계 PR](https://github.com/woowacourse/jwp-racingcar/pull/20)    |  [2단계 PR](https://github.com/woowacourse/jwp-racingcar/pull/122)   |
 
-<br/>
-
 ### 레벨 1 
 
 | Mission |           Period            |   Repository   |                               1단계 PR                                |                               2단계 PR                                |
@@ -55,6 +53,8 @@
 |  사다리 게임 학습 로그  |                               [Custom Exception에 대한 나의 경험](https://prolog.techcourse.co.kr/studylogs/2675)                                |
 |  자동차 경주 학습 로그  |                                   [@RequestBody 학습 내용](https://prolog.techcourse.co.kr/studylogs/3179)                                    |
 |  자동차 경주 학습 로그  |                                   [@RequestBody 학습 내용](https://prolog.techcourse.co.kr/studylogs/3179)                                    |
+
+<br>
 
 ### 테코톡
 
