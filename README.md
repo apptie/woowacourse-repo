@@ -44,7 +44,6 @@
 
 |    Mission     |                                                                   Link                                                                    |
 |:--------------:|:-----------------------------------------------------------------------------------------------------------------------------------------:|
-|      테코톡       |[![Video Label](http://img.youtube.com/vi/TSCHTPZ3PSQ/0.jpg)](https://youtu.be/TSCHTPZ3PSQ) |
 |   레벨 3 레벨 로그   |                      [레벨 로그 - 레벨 3](https://ginger-monkey-efe.notion.site/3-7e213b86bbb24469a96238a298923cc5?pvs=4)                       |
 |   레벨 2 레벨 로그   |                [레벨 로그 - 레벨 2](https://velog.io/@appti/%EB%A0%88%EB%B2%A8-2-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A7%88%EB%8B%B5)                |
 |   레벨 1 레벨 로그   |                                      [레벨 로그 - 레벨 1](https://prolog.techcourse.co.kr/studylogs/3103)                                       |
@@ -56,3 +55,7 @@
 |  사다리 게임 학습 로그  |                               [Custom Exception에 대한 나의 경험](https://prolog.techcourse.co.kr/studylogs/2675)                                |
 |  자동차 경주 학습 로그  |                                   [@RequestBody 학습 내용](https://prolog.techcourse.co.kr/studylogs/3179)                                    |
 |  자동차 경주 학습 로그  |                                   [@RequestBody 학습 내용](https://prolog.techcourse.co.kr/studylogs/3179)                                    |
+
+### 테코톡
+
+[![Video Label](http://img.youtube.com/vi/TSCHTPZ3PSQ/0.jpg)](https://youtu.be/TSCHTPZ3PSQ) |
