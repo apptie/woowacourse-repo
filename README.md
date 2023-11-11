@@ -52,7 +52,6 @@
 |   블랙잭 학습 로그    |                                  [블랙잭 미션을 하며 발견한 코드 악취](https://prolog.techcourse.co.kr/studylogs/2805)                                   |
 |  사다리 게임 학습 로그  |                               [Custom Exception에 대한 나의 경험](https://prolog.techcourse.co.kr/studylogs/2675)                                |
 |  자동차 경주 학습 로그  |                                   [@RequestBody 학습 내용](https://prolog.techcourse.co.kr/studylogs/3179)                                    |
-|  자동차 경주 학습 로그  |                                   [@RequestBody 학습 내용](https://prolog.techcourse.co.kr/studylogs/3179)                                    |
 
 <br>
 
